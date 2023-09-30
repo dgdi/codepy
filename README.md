@@ -16,11 +16,11 @@
 #### [University of Padua](https://www.unipd.it/en/)
 
 
-This repository serves as a convenient location for course-related notebooks, slides, and PDFs.
+This repository serves as a convenient location for the introductory notebooks, slides, and PDFs of the course.
 
 Notebooks can be **viewed statically** directly on GitHub; however, **some elements may not render correctly**. For accurate display, the notebooks must be **executed**. 
 
-A convenient yet restricted method to run notebooks is by opening them in Google Colab. Using the button at the top of this page you can open the whole repository in Colab. You will find analogous buttons at the beginning of each notebook. For additional options and a setup guide, please refer to the first lecture's notebook available [here in its static form](https://github.com/dgdi/codepy_UNIPD/blob/main/notebooks/lecture01_introSetup.ipynb).
+A convenient yet restricted method to run notebooks is by opening them in Google Colab. Using the button at the top of this page you can open the whole repository in Colab. You will find analogous buttons at the beginning of each introductory notebook. For additional options and a setup guide, please refer to the first lecture's notebook available [here in its static form](https://github.com/dgdi/codepy_UNIPD/blob/main/notebooks/lecture01_intro.ipynb).
 
 All files within this repository are shared under the BSD license. For further details, see the license.txt file.
 
